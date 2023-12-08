@@ -1,7 +1,12 @@
 
 ![alt ](https://i.ibb.co/v4V043w/Teal-Futuristic-Technology-Facebook-Cover.png)
 
-
+## Technologies I am familiar with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb," />
+  </a>
+</p>
 
 ##  Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PmSaifuzzaman&theme=github-dark-blue)](https://git.io/streak-stats)
