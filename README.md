@@ -1,7 +1,11 @@
 
 ![alt ](https://i.ibb.co/v4V043w/Teal-Futuristic-Technology-Facebook-Cover.png)
 
-**PmSaifuzzaman/PmSaifuzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+##  Current Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PmSaifuzzaman&theme=github-dark-blue)](https://git.io/streak-stats)
+
 
 Here are some ideas to get you started:
 
