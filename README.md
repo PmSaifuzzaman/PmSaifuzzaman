@@ -1,8 +1,7 @@
-
 ![alt ](./images/banner.gif)
 
-
 ## 👨🏻‍💻 Technologies I am familiar with
+
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb,py" />
@@ -10,6 +9,7 @@
 </p>
 
 ## ⚡ I utilise tools
+
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=git,bash,powershell,vscode,postman,figma," />
@@ -30,8 +30,6 @@
   </a>
 </p>
 
-
-
 ## 📑 Present day synopsis
 
 - 🔭 I’m currently working on : Full Stack Web Development.
@@ -41,16 +39,17 @@
 - 💬 Ask me about : React and Tailwind.
 - 🏍 Fun fact : Whenever I'm not coding, you can find me out on my bike.
 
-
 ## 📈 Current Stats
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PmSaifuzzaman&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmSaifuzzaman&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://api.githubtrends.io/user/svg/PmSaifuzzaman/langs?time_range=one_year&theme=bright_lights" alt="Top Languages" style="height: 200px; object-fit: cover;" />
+  <img src="https://api.githubtrends.io/user/svg/PmSaifuzzaman/repos?time_range=six_months&theme=bright_lights" alt="GitHub Trends SVG" style="height: 200px; object-fit: cover;" />
+</div>
 
 
