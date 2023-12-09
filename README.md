@@ -1,5 +1,7 @@
 ![alt ](./images/banner.gif)
 
+#### Hi, I'm Saifuzzaman. Right now, I'm a front-end developer using the MERN stack, with an emphasis on React. I aspire to work as a full-stack developer. With the goal of advancing my career and having a positive influence on full-stack web development, I want to tackle difficult projects that will test my skills and expertise.
+
 ## 👨🏻‍💻 Technologies I am familiar with
 
 <p align="center">
