@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 Technologies I am familiar with
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,firebase,react,nodejs,express,mongodb,py" />
   </a>
 </p>
 
@@ -48,3 +48,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PmSaifuzzaman&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmSaifuzzaman&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
