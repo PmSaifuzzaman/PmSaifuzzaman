@@ -54,4 +54,8 @@
   <img src="https://api.githubtrends.io/user/svg/PmSaifuzzaman/repos?time_range=six_months&theme=bright_lights" alt="GitHub Trends SVG" style="height: 200px; object-fit: cover;" />
 </div>
 
+## ✨ Recent Projects
 
+1. [BlissfullMatch Matrimony](https://github.com/PmSaifuzzaman/blissfulMatch-clientside)
+   - BlissfullMatch Matrimony (an online platform where people can choose their life partner) using the MERN stack
+   - Live Site: [BlissfullMatch Matrimony](https://blissfulmatch-31a41.web.app/)
