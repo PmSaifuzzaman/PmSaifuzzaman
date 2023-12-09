@@ -1,4 +1,4 @@
-![alt ](./images/banner.png)
+[![alt](./images/banner.png)](https://www.linkedin.com/in/saifuzzaman-pathik-61441217b)
 
 ### Hi, I'm Saifuzzaman. Right now, I'm a front-end developer using the MERN stack, with an emphasis on React. I aspire to work as a full-stack developer. With the goal of advancing my career and having a positive influence on full-stack web development, I want to tackle difficult projects that will test my skills and expertise.
 
