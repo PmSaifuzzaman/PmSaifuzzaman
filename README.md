@@ -64,3 +64,7 @@
 2. [Food Sharing Community](https://github.com/PmSaifuzzaman/food-sharing-community-clientside)
    - My project focuse on building a Community Food Sharing Platform.Using technologies like React, Firebase, Node.js (Express js) , and MongoDB, my aim to connect those with surplus food to those in need, reducing food waste and addressing hunger.A Donar can donate and Seeker can collect within his or her user profile.
    - Live Site: [Food Sharing Community](https://food-sharing-community.web.app/)
+
+3. [Auto-Zone](https://github.com/PmSaifuzzaman/autozone-clientside)
+   - My project is a category-based e-commerce platform focused on the Automotive industry. Users can explore and purchase a variety of automotive products, including those related to cars, motorcycles, and other relevant items. The platform facilitates easy product management, allowing users to contribute by adding details such as images, names, brands, types, prices, descriptions, and ratings through his or her profile.
+   - Live Site: [Food Sharing Community](https://autozone-d27bc.web.app/)
