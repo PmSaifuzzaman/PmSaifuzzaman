@@ -67,4 +67,4 @@
 
 3. [Auto-Zone](https://github.com/PmSaifuzzaman/autozone-clientside)
    - My project is a category-based e-commerce platform focused on the Automotive industry. Users can explore and purchase a variety of automotive products, including those related to cars, motorcycles, and other relevant items. The platform facilitates easy product management, allowing users to contribute by adding details such as images, names, brands, types, prices, descriptions, and ratings through his or her profile.
-   - Live Site: [Food Sharing Community](https://autozone-d27bc.web.app/)
+   - Live Site: [Auto-Zone](https://autozone-d27bc.web.app/)
